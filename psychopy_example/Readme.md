@@ -40,5 +40,7 @@ info = StreamInfo(
 outlet = StreamOutlet(info)
 ```
 
+## 补充
 
+- `psychopy`相关资料参考：https://www.psychopy.org/index.html
 
